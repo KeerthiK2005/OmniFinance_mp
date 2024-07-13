@@ -1,1 +1,2 @@
-"# OmniFinance_mp" 
+ Omnifinance web application offers an extensive array of financial literacy
+ resources in the form of articles on topics like investments, stocks, cryptocurrencies and general finance. There are curated quizzes and updated business and finance news, providing valuable insights into ever-evolving financial landscape. The Machine Learning Stock Price Predition feature helps users gain better insights to investments and Stock market promoting financial inclusivity.
